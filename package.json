@@ -1,0 +1,19 @@
+{
+  "name": "always-thirteen",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rtorr/always-thirteen"
+  },
+  "author": "rtorr <rtorruellas@gmail.com> (http://rtorr.com/)",
+  "license": "ISC",
+  "devDependencies": {
+    "is-thirteen": "^2.0.0",
+    "mocha": "^2.4.5"
+  }
+}
